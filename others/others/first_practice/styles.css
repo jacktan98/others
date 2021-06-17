@@ -1,0 +1,94 @@
+html {
+    font-family: Helvetica;
+}
+
+
+body {
+    background: #521cb1;
+}
+
+.box {
+    background: #fff;
+    width: 300px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 40px auto;
+}
+
+.edit {
+    color: #ccc;
+    font-size: 14px;
+    font-weight: bold;
+    background: white;
+    padding: 4px 8px;
+    border: darkgray 1px solid;
+    border-radius: 3px;
+    margin-top: 3px;
+    float: right;
+}
+
+.title {
+    color: #ccc;
+    font-size: 18px;
+    margin: 0;
+    padding: 4px 0px;
+}
+
+.date {
+    color: rgb(121, 120, 120);
+    font-size: 14px;
+    font-weight: bold;
+    float: right;
+    margin-top: 0px;
+}
+
+.tenant_date {
+    color: rgb(173, 173, 173);
+    font-size: 14px;
+    margin-top: 20px;
+
+}
+
+hr {
+    border-top: #eee 1px solid;
+}
+
+.status {
+    color: rgb(40, 136, 40);
+    font-size: 12px;
+    font-weight: bold;
+    background: rgb(169, 218, 169);
+    padding: 4px 8px;
+    border-radius: 15px;
+    float: right;
+}
+
+.name {
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.name_number {
+    color: rgb(173, 173, 173);
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+.send {
+    color: rgb(121, 120, 120);
+    font-size: 14px;
+    font-weight: bold;
+    background: rgb(218, 230, 233);
+    width: 100%;
+    padding: 8px 8px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+
+.show_history {
+    color: rgb(121, 120, 120);
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
